@@ -10,13 +10,16 @@ The goal is to make cloned virtual machines boot with a consistent baseline conf
 
 ## Documentation
 
-- [Linux Template Automation](docs/linux-template-automation.md)  
+- [Linux Template Automation](docs/linux-template-automation.md)
+
   Automated first-boot provisioning workflow using Cloud-Init, DNS registration, and logging agent bootstrap automation.
 
 - [CoreDNS Auto-Registration](docs/coredns-auto-registration.md)
+
   Automated DNS registration workflow that maintains forward and reverse DNS records for newly provisioned Linux virtual machines.
 
 - [Offline Root Certificate Authority](docs/offline-root-ca.md)
+
   Design and implementation of an offline PKI trust hierarchy used to secure internal services and TLS communications.
 
 ## What This Demonstrates
