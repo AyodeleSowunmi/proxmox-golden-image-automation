@@ -22,6 +22,10 @@ The goal is to make cloned virtual machines boot with a consistent baseline conf
 
   Design and implementation of an offline PKI trust hierarchy used to secure internal services and TLS communications.
 
+- [Template Automation Scripts](docs/template-automation-scripts.md)
+
+  Sanitized overview of the first-boot automation scripts used for DNS registration, DNS configuration, and logging agent bootstrap.
+
 ## What This Demonstrates
 
 - Linux system administration
