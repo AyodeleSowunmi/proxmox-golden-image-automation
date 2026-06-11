@@ -8,6 +8,11 @@ This project documents a homelab workflow for creating reusable Linux golden-ima
 
 The goal is to make cloned virtual machines boot with a consistent baseline configuration, register themselves in DNS, and optionally bootstrap required monitoring/logging components with minimal manual work.
 
+## Documentation
+
+- [Linux Template Automation](docs/linux-template-automation.md)  
+  Automated first-boot provisioning workflow using Cloud-Init, DNS registration, and logging agent bootstrap automation.
+
 ## What This Demonstrates
 
 - Linux system administration
