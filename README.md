@@ -36,6 +36,12 @@ The goal is to make cloned virtual machines boot with a consistent baseline conf
 
   Design and implementation of an offline PKI trust hierarchy used to secure internal services and TLS communications.
 
+### Troubleshooting Case Studies
+
+- [Case Study: Migrating from .local to .internal](docs/case-study-local-domain-migration.md)
+
+  Investigation and resolution of cross-platform DNS issues caused by mDNS handling of the `.local` domain.
+
 ## What This Demonstrates
 
 - Linux system administration
